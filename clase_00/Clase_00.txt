@@ -1,0 +1,11 @@
+Programacion Web
+Dos partes
+Cliente servidor
+Servidor = Programacion III
+Cliente = Laboratorio III
+
+Cliente = php MySql
+Servidor = una computadora Corriendo
+<? php ?>
+Recibir peticiones http , servidor procesa
+Servidor Apache
