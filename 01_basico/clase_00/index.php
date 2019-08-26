@@ -182,3 +182,91 @@
     );
     var_dump($arrayCatorce);
     echo "<br/><br/>";
+
+    echo "PARTE 3";
+    echo "<br/>";
+    echo "Aplicacion 15";
+    echo "<br/>";
+    
+    for ($i=1;$i<5;$i++)
+    {
+        for($j=0;$j<4;$j++)
+        {
+            print(pow($i,$j));
+        }
+        echo "<br/>";
+    }
+    echo "<br/><br/>";
+
+    echo "Aplicacion 16";
+    echo "<br/>";
+    $arrayOriginal=array('H','O','L','A');
+    function Reverse ($array){
+        return array_reverse($array);
+    }
+    //$arrayReverso=array_reverse($arrayOriginal);
+    //var_dump($arrayOriginal);
+    //echo "<br/>";
+    //var_dump($arrayReverso);
+    var_dump(Reverse($arrayOriginal));
+    echo "<br/><br/>";
+
+    echo "Aplicacion 17";
+    echo "<br/>";
+    function ValidarPalabra($palabra,$max){
+        $retorno=0;
+        $array=array("Recuperatorio","Parcial","Programacion");
+        if(count($palabra)<=$max)
+        {
+            echo "Es menor a la cantidad maxima <br/>";
+        }
+        else if(count($palabra)>$max)
+        {
+            echo "Supera la cantidad maxima <br/>";
+        }
+        foreach ($array as $value) {
+            # code...
+            if($palabra==$value){
+                $retorno=1;
+                break;
+            }
+            else{
+                $retorno=0;
+            }
+        }
+        return $retorno;
+    }
+
+    $miPalabra="Parcial";
+    echo ValidarPalabra($miPalabra,9);
+    echo "<br/><br/>";
+
+    echo "Aplicacion 18";
+    echo "<br/>";
+    function EsPar($numero){
+        if($numero%2==0)
+        {
+            return "TRUE";
+        }
+        else
+        {
+            return "FALSE";
+        }
+    }
+    function EsImpar($numero){
+        if(EsPar($numero)=="TRUE")
+        {
+            return "FALSE";
+        }
+        else
+        {
+            return "TRUE";
+        }
+    }
+
+    echo EsPar(3);
+    echo "<br/>";
+    echo EsImpar(3);
+    echo "<br/><br/>";
+    
+?>
