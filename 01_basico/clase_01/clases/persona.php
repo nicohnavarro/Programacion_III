@@ -1,6 +1,7 @@
 <?php
     class Persona{
         public $nombre;
+        public $edad;
 
         public function __construct($nombre,$edad)
         {
@@ -10,8 +11,7 @@
 
         public function Mostrar()
         {
-            echo $this->nombre;
-            echo $this->edad;
+             return json_encode($this);
         }
     }
 ?>

@@ -16,3 +16,5 @@ php trae dos metodos
 JSON_ENCODE string en formato json (un objeto) lo transforma en objeto
 JSON_DECODE 
 Me convierte un array a un objeto
+
+Como Existe el GET tambien existe el POST
