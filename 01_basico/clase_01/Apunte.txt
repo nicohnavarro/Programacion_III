@@ -1,0 +1,18 @@
+Verbos 
+GET 
+POST
+
+Dentro del index cualquier peticion se obtenia
+Ahora vamos a discriminar
+
+En php
+$_GET -> Array con todo lo que estamos enviando
+Dentro de mi index var_dump($_GET)
+
+isset($_GET("NOMBRE")); -> para saber si podemos usar un array o no.
+
+Vamos a usar Json javascript Clave-Valor
+php trae dos metodos
+JSON_ENCODE string en formato json (un objeto) lo transforma en objeto
+JSON_DECODE 
+Me convierte un array a un objeto
