@@ -18,3 +18,8 @@ JSON_DECODE
 Me convierte un array a un objeto
 
 Como Existe el GET tambien existe el POST
+$_REQUEST vamos a obtener los parametros
+$_COOKIE no se usa
+$_SESSION  session_unset();
+
+claseDAO aparte con funciones para guardar y listar.
