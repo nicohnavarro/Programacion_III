@@ -42,7 +42,7 @@
         session_unset();
     }
     */
-    
+
 
     if($_SERVER['REQUEST_METHOD']=='POST')
     {
@@ -54,7 +54,8 @@
         TraerListado();
         session_unset();
     }
-
+    $error=array("tipo de error "=> "Error ");
+    echo json_encode($error);
     
 
 ?>
