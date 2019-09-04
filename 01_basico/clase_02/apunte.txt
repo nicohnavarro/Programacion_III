@@ -1,0 +1,33 @@
+
+Archivos Locales
+$ar=fopen ($archivo,$modo)-> id que hace referencia
+
+fclose($ar);
+
+Los Modos: 
+r read
+    el cursor empieza al principio
+w write 
+    (si no existe lo crea) 
+    el cursor empieza al principio
+a ambos 
+    el cursor empieza al final
+
+fwrite($ar, string " ",lenght(opcional));
+
+PHP_EOL -> salto de linea correcto
+
+fwrite($ar," ".PHP_EOL);
+
+copy(origen,destino);
+unlick(archivo);
+
+echo fread($ar,filesize('archivo.txt'))
+
+while(!feof($ar)){
+    echo fgets($ar),'<br>'
+
+}
+
+1 DE OCTUBRE PARCIAL!
+alta baja listado modificacion
