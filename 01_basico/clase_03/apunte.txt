@@ -1,0 +1,7 @@
+ARCHIVOS -> Enviar archivos por POST
+variable super Global FILES
+move_uploaded_file($nombre,$destino)
+$origen=$_FILES['img']['img_name'];
+$destino="imagen.jpg";
+
+explode devuelve un array
