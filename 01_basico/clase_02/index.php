@@ -21,6 +21,7 @@
     $obj=new stdClass();
     $obj->nombre=$_POST['nombre'];
     $obj->apellido=$_POST['apellido'];
-    
+    echo $obj->nombre . "<br>";
     archivos::guardar(json_encode($obj));
+
 ?>

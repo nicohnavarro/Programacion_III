@@ -12,14 +12,10 @@
             $this->legajo=$legajo;
             $this->imagen=$imagen;
 
-            $origen=$imagen;
-            $destino='./usuarios/'.$apellido.$legajo.'.jpg';
-            move_uploaded_file($origen,$destino);
+            //$origen=$imagen;
+            //$destino='./usuarios/'.$apellido.$legajo.'.jpg';
+            //move_uploaded_file($origen,$destino);
         }
 
-        public function Mostrar()
-        {
-             return json_encode($this);
-        }
     }
 ?>
