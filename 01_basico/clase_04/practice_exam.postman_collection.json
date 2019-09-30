@@ -1,0 +1,264 @@
+{
+	"info": {
+		"_postman_id": "4d2ce97a-6832-426c-ae90-e07805013a4d",
+		"name": "practice_exam",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:8080/Programacion_III/01_basico/clase_04/vehiculo",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/x-www-form-urlencoded",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "marca",
+							"value": "audi",
+							"type": "text"
+						},
+						{
+							"key": "modelo",
+							"value": "2010",
+							"type": "text"
+						},
+						{
+							"key": "patente",
+							"value": "buU123",
+							"type": "text"
+						},
+						{
+							"key": "precio",
+							"value": "$150000",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:8080/Programacion_III/01_basico/clase_04/vehiculo",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"Programacion_III",
+						"01_basico",
+						"clase_04",
+						"vehiculo"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/Programacion_III/01_basico/clase_04/vehiculo/guu123",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"Programacion_III",
+						"01_basico",
+						"clase_04",
+						"vehiculo",
+						"guu123"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "servicio",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/x-www-form-urlencoded",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "id",
+							"value": "001",
+							"type": "text"
+						},
+						{
+							"key": "tipo",
+							"value": "10000 km",
+							"type": "text"
+						},
+						{
+							"key": "precio",
+							"value": "$180000",
+							"type": "text"
+						},
+						{
+							"key": "demora",
+							"value": "5 dias",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:8080/Programacion_III/01_basico/clase_04/servicio",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"Programacion_III",
+						"01_basico",
+						"clase_04",
+						"servicio"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "turnos/gau123/martes",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/Programacion_III/01_basico/clase_04/turnos/gau123/martes",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"Programacion_III",
+						"01_basico",
+						"clase_04",
+						"turnos",
+						"gau123",
+						"martes"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "turnos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/Programacion_III/01_basico/clase_04/turnos",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"Programacion_III",
+						"01_basico",
+						"clase_04",
+						"turnos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "modificarvehiculo/buu123",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/x-www-form-urlencoded",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "foto",
+							"type": "file",
+							"src": "/C:/xampp/htdocs/Programacion_III/01_basico/clase_04/audi.jpg"
+						},
+						{
+							"key": "modelo",
+							"value": "modificado1",
+							"type": "text"
+						},
+						{
+							"key": "marca",
+							"value": "modificado1",
+							"type": "text"
+						},
+						{
+							"key": "precio",
+							"value": "$150000",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:8080/Programacion_III/01_basico/clase_04/modificarvehiculo/buu123",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"Programacion_III",
+						"01_basico",
+						"clase_04",
+						"modificarvehiculo",
+						"buu123"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "vehiculos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/Programacion_III/01_basico/clase_04/vehiculos",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"Programacion_III",
+						"01_basico",
+						"clase_04",
+						"vehiculos"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
