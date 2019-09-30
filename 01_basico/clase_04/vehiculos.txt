@@ -1,2 +1,2 @@
 {"marca":"modificado1","modelo":"modificado1","patente":"auu123","precio":"$150000","imagen":{"file":"C:\\xampp\\tmp\\php2436.tmp"}}
-{"marca":"audi","modelo":"2010","patente":"buu123","precio":"$150000","imagen":null}
+{"marca":"modificado1","modelo":"modificado1","patente":"buu123","precio":"$150000","imagen":{"file":"C:\\xampp\\tmp\\php4A10.tmp"}}

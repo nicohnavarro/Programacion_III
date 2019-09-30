@@ -1,4 +1,6 @@
 <?php
+//REMEMBER BEFORE TRYING composer require slim/slim "^3.0"
+//TO load folder vendor
 use Psr\Http\Message\ServerRequestInterface as Request;
 use Psr\Http\Message\ResponseInterface as Response;
 
