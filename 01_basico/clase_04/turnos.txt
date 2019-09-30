@@ -1,0 +1,2 @@
+{"fecha":"lunes","patente":"guu123","marca":"chevrolet","modelo":"2010","precio":"$250000","tipoServicio":"10000 km"}
+{"fecha":"martes","patente":"gau123","marca":"chevrolet","modelo":"2010","precio":"$250000","tipoServicio":"10000 km"}
