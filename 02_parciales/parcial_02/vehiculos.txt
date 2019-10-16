@@ -1,0 +1,2 @@
+{"marca":"Chevrolet","patente":"HHA138","kilometros":"120000"}
+{"marca":"FORD","patente":"aa666","kilometros":"120000"}
