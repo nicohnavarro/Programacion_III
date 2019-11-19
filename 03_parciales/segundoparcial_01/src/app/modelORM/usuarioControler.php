@@ -17,4 +17,34 @@ class usuarioControler implements IApiControler
     
     return $response;
     }
+
+    public function TraerTodos($request, $response, $args) {
+        //return cd::all()->toJson();
+        $todosLosCds=cd::all();
+        $newResponse = $response->withJson($todosLosCds, 200);
+        return $newResponse;
+    }
+ 
+    public function TraerUno($request, $response, $args) {
+      //complete el codigo
+      $newResponse = $response->withJson("sin completar", 200);  
+      return $newResponse;
+    }
+
+   public function CargarUno($request, $response, $args) {
+      //complete el codigo
+      $newResponse = $response->withJson("sin completar", 200);  
+      return $response;
+    }
+    public function BorrarUno($request, $response, $args) {
+      //complete el codigo
+      $newResponse = $response->withJson("sin completar", 200);  
+      return $newResponse;
+    }
+  
+    public function ModificarUno($request, $response, $args) {
+      //complete el codigo
+      $newResponse = $response->withJson("sin completar", 200);  
+      return 	$newResponse;
+    }
 }

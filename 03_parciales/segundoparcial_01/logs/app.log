@@ -84,3 +84,16 @@
 [2019-11-11 01:56:19] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"e4a3f31"}
 [2019-11-12 23:48:02] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FProgramacion_III%2F03_parciales%2Fsegundoparcial_01%2Fpublic, RUTA=nico, autoridad=localhost [] {"uid":"1df40f0"}
 [2019-11-12 23:48:02] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"1df40f0"}
+[2019-11-14 00:45:50] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F03_parciales%2Fsegundoparcial_01%2Fpublic, RUTA=%2F, autoridad=localhost%3A8080 [] {"uid":"1dcc72d"}
+[2019-11-14 00:45:50] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"1dcc72d"}
+[2019-11-14 00:46:11] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F03_parciales%2Fsegundoparcial_01%2Fpublic, RUTA=nicolas, autoridad=localhost%3A8080 [] {"uid":"699ba62"}
+[2019-11-14 00:46:11] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"699ba62"}
+[2019-11-14 01:11:41] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F03_parciales%2Fsegundoparcial_01%2Fpublic, RUTA=%2F, autoridad=localhost%3A8080 [] {"uid":"9c89c0e"}
+[2019-11-14 01:11:41] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"9c89c0e"}
+[2019-11-14 01:11:55] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F03_parciales%2Fsegundoparcial_01%2Fpublic, RUTA=%2F, autoridad=localhost%3A8080 [] {"uid":"9ddb181"}
+[2019-11-14 01:11:55] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"9ddb181"}
+[2019-11-14 01:12:10] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F03_parciales%2Fsegundoparcial_01%2Fpublic, RUTA=nicolas, autoridad=localhost%3A8080 [] {"uid":"edb1a5c"}
+[2019-11-14 01:12:10] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"edb1a5c"}
+[2019-11-14 01:34:50] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F03_parciales%2Fsegundoparcial_01%2Fpublic, RUTA=usuarioORM%2F, autoridad=localhost%3A8080 [] {"uid":"32ee888"}
+[2019-11-14 01:37:22] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F03_parciales%2Fsegundoparcial_01%2Fpublic, RUTA=usuarioORM%2F, autoridad=localhost%3A8080 [] {"uid":"520f27e"}
+[2019-11-14 01:37:25] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F03_parciales%2Fsegundoparcial_01%2Fpublic, RUTA=usuarioORM%2F, autoridad=localhost%3A8080 [] {"uid":"fa09fd9"}
