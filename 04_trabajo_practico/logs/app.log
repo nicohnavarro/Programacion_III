@@ -1,0 +1,163 @@
+
+[2019-06-13 14:22:41] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=cd, autoridad=localhost [] {"uid":"cbdaafa"}
+[2019-06-13 14:22:41] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"cbdaafa"}
+[2019-06-13 14:23:14] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=cd, autoridad=localhost [] {"uid":"51c39c8"}
+[2019-06-13 14:23:14] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"51c39c8"}
+[2019-06-13 14:31:21] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=cd, autoridad=localhost [] {"uid":"8c0519b"}
+[2019-06-13 14:31:21] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"8c0519b"}
+[2019-06-13 14:33:01] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=cd, autoridad=localhost [] {"uid":"0b2cd96"}
+[2019-06-13 14:33:04] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=cd%2F, autoridad=localhost [] {"uid":"c6b9506"}
+[2019-06-13 14:33:08] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=cd, autoridad=localhost [] {"uid":"be6a201"}
+[2019-06-13 14:33:14] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=cd, autoridad=localhost [] {"uid":"c72b911"}
+[2019-06-13 14:33:14] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"c72b911"}
+[2019-06-13 14:41:27] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=cd, autoridad=localhost [] {"uid":"a176d8c"}
+[2019-06-13 14:41:27] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"a176d8c"}
+[2019-06-13 14:46:20] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=cd, autoridad=localhost [] {"uid":"ee35737"}
+[2019-06-13 14:46:20] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"ee35737"}
+[2019-06-13 14:48:37] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=cd, autoridad=localhost [] {"uid":"abec998"}
+[2019-06-13 14:48:37] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"abec998"}
+[2019-06-13 14:48:52] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=cd, autoridad=localhost [] {"uid":"8673393"}
+[2019-06-13 14:48:52] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"8673393"}
+[2019-06-13 14:48:59] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=%2F, autoridad=localhost [] {"uid":"4ea4dca"}
+[2019-06-13 14:48:59] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"4ea4dca"}
+[2019-06-13 14:50:13] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=cd, autoridad=localhost [] {"uid":"7226ecc"}
+[2019-06-13 14:50:13] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"7226ecc"}
+[2019-06-13 14:51:49] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=cd, autoridad=localhost [] {"uid":"436b3d9"}
+[2019-06-13 14:51:49] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"436b3d9"}
+[2019-06-13 14:52:04] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=cdsadsad, autoridad=localhost [] {"uid":"1d5953a"}
+[2019-06-13 14:52:04] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"1d5953a"}
+[2019-06-13 14:52:24] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=cdsadsad, autoridad=localhost [] {"uid":"e59d193"}
+[2019-06-13 14:52:24] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"e59d193"}
+[2019-06-13 14:52:34] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=cddasasd, autoridad=localhost [] {"uid":"04a9747"}
+[2019-06-13 14:52:34] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"04a9747"}
+[2019-06-13 14:54:41] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=cd, autoridad=localhost [] {"uid":"f107aba"}
+[2019-06-13 14:54:41] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"f107aba"}
+[2019-06-13 15:40:36] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=cd, autoridad=localhost [] {"uid":"ef8c25a"}
+[2019-06-13 15:40:36] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"ef8c25a"}
+[2019-06-13 15:40:42] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2F, autoridad=localhost [] {"uid":"357fab5"}
+[2019-06-13 15:41:29] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2F, autoridad=localhost [] {"uid":"3f334b7"}
+[2019-06-13 15:42:30] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2F, autoridad=localhost [] {"uid":"f77f1dc"}
+[2019-06-13 15:45:52] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2F, autoridad=localhost [] {"uid":"ebede7d"}
+[2019-06-13 15:46:48] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2F, autoridad=localhost [] {"uid":"0ecbf97"}
+[2019-06-13 15:46:49] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2F, autoridad=localhost [] {"uid":"282c134"}
+[2019-06-13 15:46:50] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2F, autoridad=localhost [] {"uid":"3c95600"}
+[2019-06-13 15:47:05] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2F, autoridad=localhost [] {"uid":"c621b16"}
+[2019-06-13 15:47:10] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=cd, autoridad=localhost [] {"uid":"bf6f035"}
+[2019-06-13 15:47:10] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"bf6f035"}
+[2019-06-13 15:47:16] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2F, autoridad=localhost [] {"uid":"cfac656"}
+[2019-06-13 15:47:52] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2F, autoridad=localhost [] {"uid":"e14969e"}
+[2019-06-13 15:47:55] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT, autoridad=localhost [] {"uid":"6b74752"}
+[2019-06-13 15:47:55] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"6b74752"}
+[2019-06-13 15:48:12] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2FcrearToken, autoridad=localhost [] {"uid":"4d4a878"}
+[2019-06-13 15:48:15] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2FcrearToken%2F, autoridad=localhost [] {"uid":"85c7bd2"}
+[2019-06-13 15:50:55] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2F, autoridad=localhost [] {"uid":"809f0d9"}
+[2019-06-13 15:51:28] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2FdevolverPayLoad, autoridad=localhost [] {"uid":"c4c1acb"}
+[2019-06-13 15:51:33] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2FdevolverPayLoad%2F, autoridad=localhost [] {"uid":"b2bb375"}
+[2019-06-13 15:53:23] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2FdevolverPayLoad%2F, autoridad=localhost [] {"uid":"4be0464"}
+[2019-06-13 15:53:26] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2FdevolverPayLoad%2F, autoridad=localhost [] {"uid":"d345f1e"}
+[2019-06-13 15:54:00] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2FdevolverPayLoad%2F, autoridad=localhost [] {"uid":"914db4e"}
+[2019-06-13 15:54:01] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2FdevolverPayLoad%2F, autoridad=localhost [] {"uid":"d8926fc"}
+[2019-06-13 15:54:01] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2FdevolverPayLoad%2F, autoridad=localhost [] {"uid":"e6913b2"}
+[2019-06-13 15:54:01] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2FdevolverPayLoad%2F, autoridad=localhost [] {"uid":"eb07b32"}
+[2019-06-13 15:54:01] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2FdevolverPayLoad%2F, autoridad=localhost [] {"uid":"5283686"}
+[2019-06-13 15:54:02] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2FdevolverPayLoad%2F, autoridad=localhost [] {"uid":"14a954e"}
+[2019-06-13 15:54:02] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2FdevolverPayLoad%2F, autoridad=localhost [] {"uid":"904e4eb"}
+[2019-06-13 15:54:29] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2FdevolverPayLoad%2F, autoridad=localhost [] {"uid":"6aa5ecf"}
+[2019-06-13 15:54:53] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2FdevolverPayLoad%2F, autoridad=localhost [] {"uid":"8a18527"}
+[2019-06-13 16:14:20] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2F, autoridad=localhost [] {"uid":"55a4605"}
+[2019-06-13 16:14:25] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2F, autoridad=localhost [] {"uid":"f981075"}
+[2019-06-13 16:16:52] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2F, autoridad=localhost [] {"uid":"46748bf"}
+[2019-06-13 16:16:56] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2F, autoridad=localhost [] {"uid":"0caf1e0"}
+[2019-06-13 16:17:07] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2F, autoridad=localhost [] {"uid":"6dd0ab4"}
+[2019-06-13 16:19:09] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2F, autoridad=localhost [] {"uid":"37dd024"}
+[2019-06-13 16:19:58] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2F, autoridad=localhost [] {"uid":"b69d6ce"}
+[2019-06-13 16:20:00] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2F, autoridad=localhost [] {"uid":"681fbe6"}
+[2019-06-13 16:20:32] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2F, autoridad=localhost [] {"uid":"1ef71a1"}
+[2019-06-13 16:20:40] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%2FFull-API-REST-Skeleton%2Fpublic, RUTA=JWT%2F, autoridad=localhost [] {"uid":"9dfad57"}
+[2019-11-11 01:55:49] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F02_avanzado%2F00_skeletonmodelo%2Fpublic, RUTA=%2F, autoridad=localhost%3A8080 [] {"uid":"e2fef6b"}
+[2019-11-11 01:55:49] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"e2fef6b"}
+[2019-11-11 01:55:57] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F02_avanzado%2F00_skeletonmodelo%2Fpublic, RUTA=%2F, autoridad=localhost%3A8080 [] {"uid":"3e3fee7"}
+[2019-11-11 01:55:57] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"3e3fee7"}
+[2019-11-11 01:56:06] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F02_avanzado%2F00_skeletonmodelo%2Fpublic%2Findex.php, RUTA=%2F, autoridad=localhost%3A8080 [] {"uid":"c359553"}
+[2019-11-11 01:56:06] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"c359553"}
+[2019-11-11 01:56:19] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F02_avanzado%2F00_skeletonmodelo%2Fpublic, RUTA=%2F, autoridad=localhost%3A8080 [] {"uid":"e4a3f31"}
+[2019-11-11 01:56:19] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"e4a3f31"}
+[2019-12-08 00:44:16] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=%2F, autoridad=localhost%3A8080 [] {"uid":"8da7196"}
+[2019-12-08 00:44:16] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"8da7196"}
+[2019-12-08 00:48:29] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=%2F, autoridad=localhost%3A8080 [] {"uid":"9702756"}
+[2019-12-08 00:48:29] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"9702756"}
+[2019-12-08 00:48:50] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=%2F, autoridad=localhost%3A8080 [] {"uid":"be49439"}
+[2019-12-08 00:48:50] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"be49439"}
+[2019-12-08 00:49:14] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=%2F, autoridad=localhost%3A8080 [] {"uid":"a9fe7b7"}
+[2019-12-08 00:49:14] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"a9fe7b7"}
+[2019-12-08 00:49:22] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=nico, autoridad=localhost%3A8080 [] {"uid":"858af9d"}
+[2019-12-08 00:49:22] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"858af9d"}
+[2019-12-08 00:49:29] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=%2F, autoridad=localhost%3A8080 [] {"uid":"aa024a8"}
+[2019-12-08 00:49:29] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"aa024a8"}
+[2019-12-08 15:57:09] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=%2F, autoridad=localhost%3A8080 [] {"uid":"b48df17"}
+[2019-12-08 15:57:09] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"b48df17"}
+[2019-12-08 16:47:12] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM, autoridad=localhost%3A8080 [] {"uid":"8f9519a"}
+[2019-12-08 16:47:12] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"8f9519a"}
+[2019-12-08 16:47:19] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2F, autoridad=localhost%3A8080 [] {"uid":"7ee81e1"}
+[2019-12-08 18:43:05] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2F, autoridad=localhost%3A8080 [] {"uid":"6c70c38"}
+[2019-12-08 18:43:12] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM, autoridad=localhost%3A8080 [] {"uid":"c85bad3"}
+[2019-12-08 18:43:12] UTN FRA LOGGER.INFO: Slim-Skeleton '/' route [] {"uid":"c85bad3"}
+[2019-12-08 18:43:44] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios%2F, autoridad=localhost%3A8080 [] {"uid":"117cd03"}
+[2019-12-08 18:43:47] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios, autoridad=localhost%3A8080 [] {"uid":"18a6be8"}
+[2019-12-08 18:43:54] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios%2F, autoridad=localhost%3A8080 [] {"uid":"21a44e1"}
+[2019-12-08 18:44:41] UTN FRA LOGGER.INFO: metodo=GET, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios%2FcargarUsuario, autoridad=localhost%3A8080 [] {"uid":"a01ff62"}
+[2019-12-08 18:44:56] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios%2FcargarUsuario, autoridad=localhost%3A8080 [] {"uid":"95ce610"}
+[2019-12-08 18:49:14] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios%2FcargarUsuario, autoridad=localhost%3A8080 [] {"uid":"0d7a096"}
+[2019-12-08 18:53:27] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios%2Flogin, autoridad=localhost%3A8080 [] {"uid":"2133ea8"}
+[2019-12-08 18:54:10] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios%2Flogin, autoridad=localhost%3A8080 [] {"uid":"71fabd5"}
+[2019-12-08 18:55:12] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios%2Flogin, autoridad=localhost%3A8080 [] {"uid":"8d6be0f"}
+[2019-12-08 18:58:44] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios%2Flogin, autoridad=localhost%3A8080 [] {"uid":"62e1ae7"}
+[2019-12-08 18:59:42] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios%2Flogin, autoridad=localhost%3A8080 [] {"uid":"8b9627f"}
+[2019-12-08 19:00:05] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios%2Flogin, autoridad=localhost%3A8080 [] {"uid":"fd287d4"}
+[2019-12-08 19:00:28] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios%2Flogin, autoridad=localhost%3A8080 [] {"uid":"8992a06"}
+[2019-12-08 19:01:08] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios%2Flogin, autoridad=localhost%3A8080 [] {"uid":"d6d8dc6"}
+[2019-12-08 19:03:11] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios%2Flogin, autoridad=localhost%3A8080 [] {"uid":"2542685"}
+[2019-12-08 19:03:32] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios%2Flogin, autoridad=localhost%3A8080 [] {"uid":"e99acd3"}
+[2019-12-08 19:04:24] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios%2Flogin, autoridad=localhost%3A8080 [] {"uid":"a3c2b65"}
+[2019-12-08 19:08:32] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"b48fe3d"}
+[2019-12-08 19:11:21] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"f934bf6"}
+[2019-12-08 19:11:57] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"eeb409d"}
+[2019-12-08 19:13:22] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"82e2f71"}
+[2019-12-08 19:13:45] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"eaf3fd3"}
+[2019-12-08 19:15:48] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"0ce3e5c"}
+[2019-12-08 19:16:15] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"903d4a1"}
+[2019-12-08 19:17:39] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"43e4b16"}
+[2019-12-08 19:20:08] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"0f881f8"}
+[2019-12-08 19:22:16] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"679dae7"}
+[2019-12-08 19:23:07] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"15662d3"}
+[2019-12-08 19:27:26] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"5264b92"}
+[2019-12-08 19:29:46] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"cbf968d"}
+[2019-12-08 19:32:17] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"0d9862d"}
+[2019-12-08 19:34:18] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"53d6e7e"}
+[2019-12-08 19:34:46] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"7018a7d"}
+[2019-12-08 19:35:37] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"4cc785d"}
+[2019-12-08 19:35:55] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"6b88755"}
+[2019-12-08 19:39:05] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"03043aa"}
+[2019-12-08 19:39:17] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"dbc483c"}
+[2019-12-08 19:39:31] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"b7f4b46"}
+[2019-12-08 19:39:38] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"4761b74"}
+[2019-12-08 19:39:57] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"9bf008f"}
+[2019-12-08 19:40:21] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"04bbdf6"}
+[2019-12-08 20:02:54] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"862f5bb"}
+[2019-12-08 20:11:22] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios%2FcargarUsuario, autoridad=localhost%3A8080 [] {"uid":"96d398b"}
+[2019-12-08 20:12:50] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios%2FcargarUsuario, autoridad=localhost%3A8080 [] {"uid":"92a7783"}
+[2019-12-08 20:13:51] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios%2FcargarUsuario, autoridad=localhost%3A8080 [] {"uid":"f93bc21"}
+[2019-12-08 20:14:48] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios%2FcargarUsuario, autoridad=localhost%3A8080 [] {"uid":"d274d2c"}
+[2019-12-08 20:14:53] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"a73e920"}
+[2019-12-08 20:15:10] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios%2FcargarUsuario, autoridad=localhost%3A8080 [] {"uid":"af2e4ac"}
+[2019-12-08 20:15:42] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios%2FcargarUsuario, autoridad=localhost%3A8080 [] {"uid":"2802221"}
+[2019-12-08 20:16:10] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios%2FcargarUsuario, autoridad=localhost%3A8080 [] {"uid":"05dfcd1"}
+[2019-12-08 20:16:18] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"087e674"}
+[2019-12-08 20:16:44] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios%2FcargarUsuario, autoridad=localhost%3A8080 [] {"uid":"9d89017"}
+[2019-12-08 20:18:16] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios%2FcargarUsuario, autoridad=localhost%3A8080 [] {"uid":"502dacc"}
+[2019-12-08 20:18:28] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios%2FcargarUsuario, autoridad=localhost%3A8080 [] {"uid":"55b6728"}
+[2019-12-08 20:18:34] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"4939042"}
+[2019-12-08 20:18:54] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=comandaORM%2Fusuarios%2FcargarUsuario, autoridad=localhost%3A8080 [] {"uid":"b86a101"}
+[2019-12-08 20:36:09] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"1364f07"}
+[2019-12-08 20:36:55] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"7d86f68"}
+[2019-12-08 20:37:03] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A8080%2FProgramacion_III%2F04_trabajo_practico%2Fpublic, RUTA=login, autoridad=localhost%3A8080 [] {"uid":"8bf7f79"}
