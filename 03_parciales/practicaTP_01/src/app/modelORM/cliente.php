@@ -7,5 +7,7 @@ use Psr\Http\Message\ServerRequestInterface as Request;
 
 class cliente extends \Illuminate\Database\Eloquent\Model {  
   
-
+    
 }
+
+?>
